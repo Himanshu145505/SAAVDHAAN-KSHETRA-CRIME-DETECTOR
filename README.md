@@ -1,6 +1,6 @@
 # SAAVDHAAN-KSHETRA-CRIME-DETECTOR 🚓🚨
 
-SAAVDHAAN-KSHETRA-CRIME-DETECTOR, a full-stack application leveraging computer vision techniques for crime and violence detection. The project was built using Django and JavaScript, with a focus on enhancing image processing performance and accuracy in detecting suspicious activities.
+SAAVDHAAN-KSHETRA-CRIME-DETECTOR is a full-stack application leveraging computer vision techniques for crime and violence detection. The project was built using Django and JavaScript, with a focus on enhancing image processing performance and accuracy in detecting suspicious activities. 🔍👁️
 
 ## Features
 
@@ -22,3 +22,6 @@ SAAVDHAAN-KSHETRA-CRIME-DETECTOR, a full-stack application leveraging computer v
 
 -Advanced Object Detection: Utilized Google-Vision API for detailed object detection on processed images.
 SAAVDHAAN-KSHETRA-CRIME-DETECTOR showcases the potential of computer vision in enhancing safety and security through effective detection of crime and violence.
+
+Contributors 🤝 are welcome! Please open an issue or submit a pull request.
+
